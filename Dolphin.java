@@ -18,6 +18,7 @@ public class Dolphin extends Actor
         move(2);
         if(Greenfoot.isKeyDown("a")){
             setLocation(getX()-5, getY());
+            broken code
         }
     }
 }
